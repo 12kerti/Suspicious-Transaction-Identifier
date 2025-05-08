@@ -36,14 +36,6 @@ Financial fraud detection is a critical task for banking and fintech institution
 
 The models developed in this project were evaluated based on their ability to accurately distinguish between legitimate and fraudulent transactions. Given the significant class imbalance in the dataset (only ~0.17% of transactions are fraudulent), particular emphasis was placed on recall and F1 score, in addition to overall accuracy.
 
-Model	Accuracy	Precision	Recall	F1 Score	AUC
-Logistic Regression	High	High	Moderate	Moderate	Good
-K-Nearest Neighbors	Moderate	Low-Med	High	Moderate	Fair
-Support Vector Machine	High	High	Moderate	Moderate	Good
-Decision Tree	Very High	High	High	High	Risk of Overfit
-Random Forest	Excellent	High	High	High	Excellent
-Neural Network	Excellent	Very High	Very High	Very High	Excellent
-
 
 
 ## 🧠 Future Improvements
